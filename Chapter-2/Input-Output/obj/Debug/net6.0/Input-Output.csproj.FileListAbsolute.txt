@@ -1,0 +1,15 @@
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/bin/Debug/net6.0/Input-Output
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/bin/Debug/net6.0/Input-Output.deps.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/bin/Debug/net6.0/Input-Output.runtimeconfig.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/bin/Debug/net6.0/Input-Output.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/bin/Debug/net6.0/Input-Output.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.csproj.AssemblyReference.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.AssemblyInfoInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.AssemblyInfo.cs
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.csproj.CoreCompileInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/refint/Input-Output.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/Input-Output.genruntimeconfig.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Input-Output/obj/Debug/net6.0/ref/Input-Output.dll

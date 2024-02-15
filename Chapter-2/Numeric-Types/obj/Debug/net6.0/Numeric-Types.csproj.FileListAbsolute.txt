@@ -1,0 +1,15 @@
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/bin/Debug/net6.0/Numeric-Types
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/bin/Debug/net6.0/Numeric-Types.deps.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/bin/Debug/net6.0/Numeric-Types.runtimeconfig.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/bin/Debug/net6.0/Numeric-Types.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/bin/Debug/net6.0/Numeric-Types.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.csproj.AssemblyReference.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.AssemblyInfoInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.AssemblyInfo.cs
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.csproj.CoreCompileInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/refint/Numeric-Types.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/Numeric-Types.genruntimeconfig.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Numeric-Types/obj/Debug/net6.0/ref/Numeric-Types.dll

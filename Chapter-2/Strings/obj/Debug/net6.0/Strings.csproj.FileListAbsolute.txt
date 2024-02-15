@@ -1,0 +1,15 @@
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/bin/Debug/net6.0/Strings
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/bin/Debug/net6.0/Strings.deps.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/bin/Debug/net6.0/Strings.runtimeconfig.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/bin/Debug/net6.0/Strings.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/bin/Debug/net6.0/Strings.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.csproj.AssemblyReference.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.AssemblyInfoInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.AssemblyInfo.cs
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.csproj.CoreCompileInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/refint/Strings.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/Strings.genruntimeconfig.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Strings/obj/Debug/net6.0/ref/Strings.dll

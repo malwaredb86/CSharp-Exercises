@@ -1,0 +1,15 @@
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/bin/Debug/net6.0/Chapter-2-Exercises
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/bin/Debug/net6.0/Chapter-2-Exercises.deps.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/bin/Debug/net6.0/Chapter-2-Exercises.runtimeconfig.json
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/bin/Debug/net6.0/Chapter-2-Exercises.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/bin/Debug/net6.0/Chapter-2-Exercises.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.csproj.AssemblyReference.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.AssemblyInfoInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.AssemblyInfo.cs
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.csproj.CoreCompileInputs.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/refint/Chapter-2-Exercises.dll
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.pdb
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/Chapter-2-Exercises.genruntimeconfig.cache
+/Users/malissadurham/Documents/CSharp/Chapter-2/Chapter-2-Exercises/obj/Debug/net6.0/ref/Chapter-2-Exercises.dll
